@@ -1,0 +1,33 @@
+body {
+     background-image: url("53851-cold-mountain-background.gif");
+    }
+    #avatar{
+         width: 90px;
+         height: 90px;
+         border-radius: 50%;
+    }
+ 
+ #button_submit{
+      width:100px;
+      height: 100px;
+      color: firebrick;
+       border-radius: 50%;
+      background-color: aqua
+ }
+
+ #button_login{
+     width:100px;
+     height: 100px;
+     color: coral;
+      border-radius: 50%;
+     background-color:sienna;
+}
+#lbn{
+     color: azure;
+}
+#lbe{
+     color: azure;
+}
+#lbp{
+     color:azure;
+}
